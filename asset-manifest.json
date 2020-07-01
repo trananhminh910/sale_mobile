@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/sale_mobile/static/js/main.aac727e4.chunk.js",
+    "main.js.map": "/sale_mobile/static/js/main.aac727e4.chunk.js.map",
+    "runtime-main.js": "/sale_mobile/static/js/runtime-main.6e4b496b.js",
+    "runtime-main.js.map": "/sale_mobile/static/js/runtime-main.6e4b496b.js.map",
+    "static/js/2.6f4f7bc7.chunk.js": "/sale_mobile/static/js/2.6f4f7bc7.chunk.js",
+    "static/js/2.6f4f7bc7.chunk.js.map": "/sale_mobile/static/js/2.6f4f7bc7.chunk.js.map",
+    "index.html": "/sale_mobile/index.html",
+    "precache-manifest.63053ba9ce93903dd0a4a4caa37fa0b2.js": "/sale_mobile/precache-manifest.63053ba9ce93903dd0a4a4caa37fa0b2.js",
+    "service-worker.js": "/sale_mobile/service-worker.js",
+    "static/js/2.6f4f7bc7.chunk.js.LICENSE.txt": "/sale_mobile/static/js/2.6f4f7bc7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e4b496b.js",
+    "static/js/2.6f4f7bc7.chunk.js",
+    "static/js/main.aac727e4.chunk.js"
+  ]
+}
